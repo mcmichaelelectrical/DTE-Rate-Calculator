@@ -1,0 +1,5 @@
+File: C:/Users/andym/Downloads/electric_usage_report_04-30-2022_to_05-26-2022.csv
+Regular: 123.94
+Time-Of-Day: 85.70
+Dynamic: 84.98
+------------------------------------------
